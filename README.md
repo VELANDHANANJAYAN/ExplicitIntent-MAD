@@ -202,9 +202,9 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 ## OUTPUT
 
-![Screenshot 2024-03-14 092613](https://github.com/VELANDHANANJAYAN/ExplicitIntent-MAD/assets/119405038/6aade18a-2eab-4086-a992-0394528eb4c8)
+![IMG-20240509-WA0038](https://github.com/VELANDHANANJAYAN/ExplicitIntent-MAD/assets/119405038/28146692-b36b-43fc-b8e2-4bc17ecac283)
+![IMG-20240509-WA0021](https://github.com/VELANDHANANJAYAN/ExplicitIntent-MAD/assets/119405038/afccde4e-c354-4e01-a9fa-5fb9338e6f10)
 
-![Screenshot 2024-03-14 092636](https://github.com/VELANDHANANJAYAN/ExplicitIntent-MAD/assets/119405038/697bcf80-203e-46d5-a06c-de3cd4e4f621)
 
 ## RESULT
 Thus a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
